@@ -1,3 +1,3 @@
-# Koka CLone 2023 study
+# Kok0a CLone 2023 study
 
-CSS got so much better!
+HTML & CSS are so much fun
